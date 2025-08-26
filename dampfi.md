@@ -1,7 +1,7 @@
-\#D\*ampfi\*
+\#Dampfi
 
 *E\-Scooter easy & schnell saubermachen* 
-mit einen *Dampfreiniger*
+mit einem *Dampfreiniger*
 https://amzn\.to/4i7GFIz
 https://amzn\.to/4hLvGoA
 https://amzn\.to/3F0GGja
