@@ -1,2 +1,2 @@
-Deine Mudda ...
-... is *fett*!
+Deine Mudda 
+ is *fett*!
