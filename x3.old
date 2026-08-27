@@ -1,0 +1,34 @@
+<u>G3/F3/F3Pro/GT3:</u>
+- Region Change direkt über <a href="https://rollerplausch.com/threads/scooterhacking-utility-v4-2-1-verfuegbar.14973/#post-151607">SHU v4.2</a>
+- Unlock (zum Flashen anderer Firmware):
+<b>*** Siehe entsprechende Links unten! ***</b>
+
+<u>E3/E3 Pro:</u>
+- Verbindung zu SHU v4.2.1 ist nun möglich.
+- Der Scooter lässt sich innerhalb der App vollständig konfigurieren.
+- BLE/BMS kann geflasht werden. 
+‼️Derzeit gibt es noch keine Möglichkeit, eine andere DRV zu flashen und die Region zu ändern, aber das ist erst der Anfang‼️
+
+<u>ZT3:</u>
+- Noch KEIN Region Change direkt über SHU v4.2.1 möglich
+- VCU auf Discord entsperren (8-10 Tage Wartezeit für neue Mitglieder) oder über ST-Link mit <a href="https://github.com/ztakis/x3utils/">x3utils</a>.
+- Danach über Repo VCU installieren und anschließend die Region ändern.
+
+
+‼️ACHTUNG ACHTUNG‼️
+Es darf auf die <b><u>ausführlichen Guides zum Thema ST-Link</u></b> verwiesen werden.
+
+<a href="https://rollerplausch.com/threads/shfw-anleitung-2025-scooterhacking-utility-ninebot-xiaomi-e-scooter-tuning.3753/">SHFW Anleitung 2026</a> updated!
+
+<u>x3 Modelle (G3, GT3, ZT3, F3)</u>
+1) <a href="http://github.com/Sharkboy-j/ninebot-g3-max-vcu-speed-hack/">ST-Link G3 ALTE Platine</a> (Anschlüsse auf der Vorderseite)
+
+2) <a href="https://rollerplausch.com/threads/anleitung-st-link-flash-fuer-den-neuen-ninebot-g3-modell-2026-mit-platine-_dvt_v3-schritt-fuer-schritt-ninebot-g3-g3d-vcu-mod-2026.14898/">ST-Link G3 NEUE Platine</a> (Anschlüsse auf der Rückseite)
+
+3) <a href="https://rollerplausch.com/threads/zt3-pro-unlock-40-kmh-dashboard-tausch-oder-st-link-vcu-1-4-8-1-4-10-max-tempomat-zt3scripts.12501/">ST-Link ZT3</a>
+
+4) <a href="https://github.com/ztakis/x3utils/">Alternative: x3utils für G3, ZT3, F3/F3Pro</a>
+
+
+#x3
+ 
